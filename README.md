@@ -22,7 +22,7 @@ while(true) {
 }
 ```
 
-## � 技术栈杂耍表演 
+## 🧩 技术栈杂耍表演 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ubanillx&layout=compact&theme=default&hide_border=true&langs_count=6&card_width=500&exclude_repo=legacy-ssm-project&title_color=586069&text_color=24292e&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 ```javascript
@@ -40,6 +40,11 @@ while(true) {
    白色方块 -> 那天可能在和产品经理"论道" */
 ```
 
+## 📚 藏经阁（博客）
+📖 [技术杂文 & 踩坑实录](https://www.blog.ubanillx.cn)  
+✅ 记录从"面向百度编程"到"面向GPT重构"的进化史  
+💡 代表作：《论如何用 `console.log` 定位量子级Bug》《npm install 失败的108种姿势》
+
 ## 🏆 玄学成就墙
 - 🥇 `git push --force` 生存大师（存活率100%）
 - 🥈 精准预判 `npm install` 失败时间（误差±3分钟）
@@ -49,4 +54,3 @@ while(true) {
 > "别问为什么测试环境正常生产就炸，问就是量子纠缠" —— 《程序员防甩锅指南》第3章
 
 </div>
-
