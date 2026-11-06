@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Ubanillx — AI full-stack engineer</title>
+  <desc id="desc">Dark title card. The name Ubanillx, AI full-stack engineer in Guangzhou, China, working on AI for enterprise office work, sits beside the line “The layer between a model demo and a product people use.” A system map runs from brief to model, agent, and product, ending in three repositories: smartclass-backend, NovaCloudEdu, and DocMaster.</desc>
+
+  <defs>
+    <linearGradient id="trail-fade" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#62E6A7" stop-opacity="0.8"/>
+      <stop offset="0.55" stop-color="#62E6A7" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#62E6A7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <g id="background">
+    <rect width="1200" height="520" rx="28" fill="#060A09"/>
+    <rect x="0.5" y="0.5" width="1199" height="519" rx="27.5" fill="none" stroke="#17261F"/>
+  </g>
+
+  <g id="identity">
+    <circle cx="70" cy="71" r="4" fill="#62E6A7"/>
+    <text x="84" y="78" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="18" font-weight="400" letter-spacing="1.8" fill="#C9DBD2">AI FULL-STACK ENGINEER</text>
+    <text x="376" y="78" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="17" font-weight="400" letter-spacing="1.2" fill="#7A9086">· GUANGZHOU, CN</text>
+
+    <text x="58" y="216" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="118" font-weight="800" letter-spacing="-2.5" fill="#E9F3EE">UBANILLX</text>
+    <rect x="632" y="204" width="44" height="7" rx="1.5" fill="#62E6A7" opacity="0.9"/>
+
+    <text x="64" y="294" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="32" font-weight="500" fill="#D7E6DF">The layer between a model demo</text>
+    <text x="64" y="334" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="32" font-weight="500" fill="#D7E6DF">and a product people use.</text>
+
+    <text x="64" y="378" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="20" font-weight="400" fill="#8CA39A">AI for enterprise office work, from agent to UI.</text>
+
+    <g id="chips">
+      <g transform="translate(64 418)">
+        <rect width="81" height="38" rx="19" fill="#0B1512" stroke="#1E332B"/>
+        <text x="40.5" y="25" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="18" letter-spacing="1.2" fill="#AFC3B9">JAVA</text>
+      </g>
+      <g transform="translate(155 418)">
+        <rect width="165" height="38" rx="19" fill="#0B1512" stroke="#1E332B"/>
+        <text x="82.5" y="25" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="18" letter-spacing="1.2" fill="#AFC3B9">SPRING BOOT</text>
+      </g>
+      <g transform="translate(330 418)">
+        <rect width="141" height="38" rx="19" fill="#0B1512" stroke="#1E332B"/>
+        <text x="70.5" y="25" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="18" letter-spacing="1.2" fill="#AFC3B9">AI AGENTS</text>
+      </g>
+      <g transform="translate(481 418)">
+        <rect width="189" height="38" rx="19" fill="#0B1512" stroke="#1E332B"/>
+        <text x="94.5" y="25" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="18" letter-spacing="1.2" fill="#AFC3B9">LLM STREAMING</text>
+      </g>
+    </g>
+  </g>
+
+  <g id="system-panel">
+    <rect x="700" y="64" width="436" height="392" rx="20" fill="#0A1310" stroke="#1C2F28"/>
+
+    <circle cx="730" cy="98" r="3" fill="#62E6A7"/>
+    <text x="744" y="104" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="18" letter-spacing="1.8" fill="#DCEAE4">SYSTEM MAP</text>
+    <text x="1112" y="104" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="17" letter-spacing="1.2" fill="#7A9086">BRIEF → SHIP</text>
+    <line x1="724" y1="124" x2="1112" y2="124" stroke="#182A24" stroke-width="1"/>
+
+    <line x1="738" y1="200" x2="1092" y2="200" stroke="#2B4A3D" stroke-width="1.5"/>
+
+    <g transform="translate(756 200)">
+      <circle r="8" fill="#060A09" stroke="#3E5F52" stroke-width="1.5"/>
+      <circle r="2.5" fill="#62E6A7"/>
+    </g>
+    <text x="756" y="232" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="18" letter-spacing="0.8" fill="#DCEAE4">BRIEF</text>
+    <text x="756" y="254" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="16" letter-spacing="0.4" fill="#7A9086">intent</text>
+
+    <g transform="translate(862 200)">
+      <circle r="8" fill="#060A09" stroke="#3E5F52" stroke-width="1.5"/>
+      <circle r="2.5" fill="#62E6A7"/>
+    </g>
+    <text x="862" y="232" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="18" letter-spacing="0.8" fill="#DCEAE4">MODEL</text>
+    <text x="862" y="254" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="16" letter-spacing="0.4" fill="#7A9086">tokens</text>
+
+    <g transform="translate(968 200)">
+      <circle r="8" fill="#060A09" stroke="#3E5F52" stroke-width="1.5"/>
+      <circle r="2.5" fill="#62E6A7"/>
+    </g>
+    <text x="968" y="232" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="18" letter-spacing="0.8" fill="#DCEAE4">AGENT</text>
+    <text x="968" y="254" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="16" letter-spacing="0.4" fill="#7A9086">tools</text>
+
+    <g transform="translate(1074 200)">
+      <circle r="8" fill="#060A09" stroke="#C9874B" stroke-width="1.5"/>
+      <circle r="2.5" fill="#FFB86B"/>
+    </g>
+    <text x="1074" y="232" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="18" letter-spacing="0.8" fill="#DCEAE4">PRODUCT</text>
+    <text x="1074" y="254" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="16" letter-spacing="0.4" fill="#7A9086">ship</text>
+
+    <line x1="724" y1="300" x2="1112" y2="300" stroke="#182A24" stroke-width="1"/>
+    <text x="724" y="330" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="16" letter-spacing="1.8" fill="#7A9086">SHIPPED AS</text>
+
+    <rect x="724" y="358" width="5" height="5" fill="#FFB86B"/>
+    <text x="742" y="364" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="20" fill="#DCEAE4">smartclass-backend</text>
+    <text x="1112" y="364" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="16" letter-spacing="1.2" fill="#7A9086">JAVA</text>
+
+    <rect x="724" y="388" width="5" height="5" fill="#FFB86B"/>
+    <text x="742" y="394" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="20" fill="#DCEAE4">NovaCloudEdu</text>
+    <text x="1112" y="394" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="16" letter-spacing="1.2" fill="#7A9086">FLUTTER</text>
+
+    <rect x="724" y="418" width="5" height="5" fill="#FFB86B"/>
+    <text x="742" y="424" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="20" fill="#DCEAE4">DocMaster</text>
+    <text x="1112" y="424" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="16" letter-spacing="1.2" fill="#7A9086">JAVA</text>
+  </g>
+
+  <g id="packet-1" transform="translate(1074 200)">
+    <rect x="-72" y="-1" width="72" height="2" rx="1" fill="url(#trail-fade)"/>
+    <circle cx="0" cy="0" r="11" fill="#62E6A7" opacity="0.1"/>
+    <circle cx="0" cy="0" r="6" fill="#62E6A7"/>
+    <circle cx="0" cy="0" r="1.8" fill="#E9F3EE"/>
+  </g>
+</svg>

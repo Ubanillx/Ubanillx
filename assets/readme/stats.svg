@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+  <title id="title">Ubanillx profile snapshot</title>
+  <desc id="desc">Snapshot from 2026-11-06: 33 public repositories, 177 stars, 459 contributions in the last 12 months, 27 followers.</desc>
+
+  <rect width="1200" height="180" rx="24" fill="#060A09"/>
+  <rect x="0.5" y="0.5" width="1199" height="179" rx="23.5" fill="none" stroke="#17261F"/>
+
+  <text x="72" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="48" font-weight="700" fill="#E9F3EE">33</text>
+  <text x="72" y="124" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="18" letter-spacing="1.4" fill="#7A9086">PUBLIC REPOS</text>
+
+  <line x1="336" y1="44" x2="336" y2="136" stroke="#1C2F28"/>
+  <text x="354" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="48" font-weight="700" fill="#E9F3EE">177</text>
+  <text x="354" y="124" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="18" letter-spacing="1.4" fill="#7A9086">STARS</text>
+
+  <line x1="618" y1="44" x2="618" y2="136" stroke="#1C2F28"/>
+  <text x="636" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="48" font-weight="700" fill="#62E6A7">459</text>
+  <text x="636" y="124" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="18" letter-spacing="1.4" fill="#7A9086">CONTRIBUTIONS</text>
+
+  <line x1="900" y1="44" x2="900" y2="136" stroke="#1C2F28"/>
+  <text x="918" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="48" font-weight="700" fill="#E9F3EE">27</text>
+  <text x="918" y="124" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="18" letter-spacing="1.4" fill="#7A9086">FOLLOWERS</text>
+
+  <text x="1128" y="164" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="1.2" fill="#7A9086">SNAPSHOT · 2026-11-06</text>
+</svg>

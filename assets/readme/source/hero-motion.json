@@ -1,0 +1,18 @@
+{
+  "width": 1200,
+  "fps": 30,
+  "duration": 3.8,
+  "colors": 256,
+  "dither": "none",
+  "transparent_color": "#FF00FF",
+  "clip_to_base_alpha": true,
+  "max_size_mb": 2.0,
+  "reveals": [],
+  "layers": [
+    {
+      "id": "packet-1",
+      "enter": {"start": 0.3, "end": 1.8, "from": [-300, 0]},
+      "exit": {"start": 2.5, "end": 3.0, "to": [0, -8]}
+    }
+  ]
+}
