@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="96" viewBox="0 0 660 96" role="img" aria-labelledby="title desc">
+<title id="title">smartclass-backend</title>
+<desc id="desc">smartclass-backend</desc>
+<rect x="1" y="1" width="658" height="94" rx="14" fill="#060A09" stroke="#243A30" stroke-width="2"/><g transform="translate(24 24) scale(1.8333333333333333)" fill="none" stroke="#62E6A7" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11a8 8 0 0 1-8 8H7l-4 3v-7a8 8 0 1 1 18-4zM7 9h10M7 13h6"/></g><text x="92" y="59" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="32" font-weight="650" fill="#E9F3EE">smartclass-backend</text><path d="M612 56l16-16m-15 0h15v15" fill="none" stroke="#62E6A7" stroke-width="3"/>
+</svg>

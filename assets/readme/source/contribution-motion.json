@@ -1,0 +1,32 @@
+{
+  "width": 1200,
+  "fps": 30,
+  "duration": 7,
+  "colors": 256,
+  "dither": "none",
+  "transparent_color": "#FF00FF",
+  "clip_to_base_alpha": true,
+  "max_size_mb": 2,
+  "reveals": [],
+  "layers": [
+    {
+      "id": "timeline-scan",
+      "enter": {
+        "start": 0.3,
+        "end": 3.4,
+        "from": [
+          -1056,
+          0
+        ]
+      },
+      "exit": {
+        "start": 3.5,
+        "end": 3.9,
+        "to": [
+          0,
+          0
+        ]
+      }
+    }
+  ]
+}

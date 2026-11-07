@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="104" viewBox="0 0 320 104" role="img" aria-labelledby="title desc">
+<title id="title">FORCE PUSH SURVIVOR — self-awarded, for fun</title>
+<desc id="desc">FORCE PUSH SURVIVOR — self-awarded, for fun</desc>
+<path d="M16 1h288l15 15v72l-15 15H16L1 88V16z" fill="#060A09" stroke="#2C4639" stroke-width="2"/><path d="M53 25l27 15v32L53 88 26 72V40z" fill="#12271D" stroke="#62E6A7" stroke-width="1.5"/><g transform="translate(36 40) scale(1.4166666666666667)" fill="none" stroke="#62E6A7" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="4" r="2.5"/><circle cx="6" cy="20" r="2.5"/><circle cx="18" cy="6" r="2.5"/><path d="M6 6.5v11M18 8.5c0 5-12 3-12 8"/></g><text x="94" y="49" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="26" font-weight="500" fill="#A0B6AA">FORCE PUSH</text><text x="94" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="26" font-weight="700" fill="#62E6A7">SURVIVOR</text>
+</svg>

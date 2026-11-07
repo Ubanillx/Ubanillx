@@ -1,0 +1,51 @@
+{
+  "width": 720,
+  "fps": 30,
+  "duration": 5.8,
+  "colors": 256,
+  "dither": "none",
+  "transparent_color": "#FF00FF",
+  "clip_to_base_alpha": true,
+  "max_size_mb": 2,
+  "reveals": [],
+  "layers": [
+    {
+      "id": "packet",
+      "enter": {
+        "start": 0.3,
+        "end": 2.1,
+        "from": [
+          -520,
+          0
+        ]
+      },
+      "exit": {
+        "start": 2.15,
+        "end": 2.45,
+        "to": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "id": "arrival",
+      "enter": {
+        "start": 2.1,
+        "end": 2.45,
+        "from": [
+          0,
+          0
+        ]
+      },
+      "exit": {
+        "start": 4.5,
+        "end": 5.1,
+        "to": [
+          0,
+          0
+        ]
+      }
+    }
+  ]
+}

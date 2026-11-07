@@ -1,0 +1,27 @@
+{
+  "brand_vectors": {
+    "java": "https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/java/java-original.svg",
+    "springboot": "https://cdn.simpleicons.org/springboot",
+    "python": "https://cdn.simpleicons.org/python",
+    "react": "https://cdn.simpleicons.org/react",
+    "typescript": "https://cdn.simpleicons.org/typescript",
+    "docker": "https://cdn.simpleicons.org/docker",
+    "github": "https://cdn.simpleicons.org/github",
+    "x": "https://cdn.simpleicons.org/x"
+  },
+  "licenses": {
+    "devicon": "https://github.com/devicons/devicon/blob/master/LICENSE",
+    "simple-icons": "https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md"
+  },
+  "custom_vectors": [
+    "LangChain4j chain symbol (not an official brand logo)",
+    "book",
+    "chat",
+    "branch",
+    "cloud",
+    "file",
+    "box",
+    "terminal"
+  ],
+  "note": "Brand vectors are embedded locally in badges; generic symbols and compositions are original. Brand names and logos remain the property of their respective owners."
+}

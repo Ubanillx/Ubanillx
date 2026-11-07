@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="760" viewBox="0 0 720 760" role="img" aria-labelledby="title desc">
+  <title id="title">Ubanillx — AI full-stack engineer</title>
+  <desc id="desc">Portrait title card. Ubanillx, AI full-stack engineer in Guangzhou, China, working on AI for enterprise office work. A signal path runs from brief to model, agent, and product, with real repositories smartclass-backend, NovaCloudEdu, and DocMaster listed below.</desc>
+
+  <rect width="720" height="760" rx="30" fill="#060A09"/>
+  <rect x="0.5" y="0.5" width="719" height="759" rx="29.5" fill="none" stroke="#17261F"/>
+
+  <circle cx="46" cy="64" r="3.5" fill="#62E6A7"/>
+  <text x="60" y="72" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="24" letter-spacing="1.4" fill="#C9DBD2">AI FULL-STACK ENGINEER</text>
+  <text x="430" y="72" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="22" letter-spacing="1.2" fill="#7A9086">· GUANGZHOU, CN</text>
+
+  <text x="36" y="224" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="104" font-weight="800" letter-spacing="-2" fill="#E9F3EE">UBANILLX</text>
+  <rect x="540" y="212" width="38" height="6" rx="1.5" fill="#62E6A7" opacity="0.9"/>
+
+  <text x="40" y="302" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="36" font-weight="500" fill="#D7E6DF">The layer between a model demo</text>
+  <text x="40" y="348" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="36" font-weight="500" fill="#D7E6DF">and a product people use.</text>
+  <text x="40" y="402" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="24" fill="#8CA39A">AI for enterprise office work, from agent to UI.</text>
+
+  <line x1="64" y1="494" x2="640" y2="494" stroke="#2B4A3D" stroke-width="2"/>
+
+  <g transform="translate(100 494)">
+    <circle r="9" fill="#060A09" stroke="#3E5F52" stroke-width="1.5"/>
+    <circle r="2.6" fill="#62E6A7"/>
+  </g>
+  <text x="100" y="530" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="25" letter-spacing="0.6" fill="#DCEAE4">BRIEF</text>
+
+  <g transform="translate(280 494)">
+    <circle r="9" fill="#060A09" stroke="#3E5F52" stroke-width="1.5"/>
+    <circle r="2.6" fill="#62E6A7"/>
+  </g>
+  <text x="280" y="530" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="25" letter-spacing="0.6" fill="#DCEAE4">MODEL</text>
+
+  <g transform="translate(460 494)">
+    <circle r="9" fill="#060A09" stroke="#3E5F52" stroke-width="1.5"/>
+    <circle r="2.6" fill="#62E6A7"/>
+  </g>
+  <text x="460" y="530" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="25" letter-spacing="0.6" fill="#DCEAE4">AGENT</text>
+
+  <g transform="translate(620 494)">
+    <circle r="9" fill="#060A09" stroke="#C9874B" stroke-width="1.5"/>
+    <circle r="2.6" fill="#FFB86B"/>
+  </g>
+  <text x="620" y="530" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="25" letter-spacing="0.6" fill="#DCEAE4">PRODUCT</text>
+
+  <line x1="40" y1="566" x2="680" y2="566" stroke="#182A24"/>
+
+  <text x="40" y="596" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="22" letter-spacing="1.8" fill="#7A9086">SHIPPED AS</text>
+
+  <rect x="40" y="630" width="6" height="6" fill="#FFB86B"/>
+  <text x="58" y="636" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="30" fill="#DCEAE4">smartclass-backend</text>
+
+  <rect x="40" y="668" width="6" height="6" fill="#FFB86B"/>
+  <text x="58" y="674" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="30" fill="#DCEAE4">NovaCloudEdu</text>
+
+  <rect x="40" y="706" width="6" height="6" fill="#FFB86B"/>
+  <text x="58" y="712" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="30" fill="#DCEAE4">DocMaster</text>
+<defs><linearGradient id="trail-fade"><stop stop-color="#62E6A7" stop-opacity="0"/><stop offset="1" stop-color="#62E6A7" stop-opacity="0.8"/></linearGradient></defs>
+<g id="packet" transform="translate(620 494)">
+  <rect x="-60" y="-2" width="60" height="4" rx="2" fill="url(#trail-fade)"/>
+  <circle r="12" fill="#62E6A7" opacity="0.15"/>
+  <circle r="5" fill="#62E6A7"/>
+  <circle r="2" fill="#E9F3EE"/>
+</g>
+<g id="arrival" transform="translate(620 494)">
+  <circle r="17" fill="#FFB86B" opacity="0.12"/>
+  <circle r="11" fill="#142219" stroke="#FFB86B" stroke-width="1.5"/>
+  <path d="M-5 0l3 3 7-7" fill="none" stroke="#FFB86B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

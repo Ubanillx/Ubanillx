@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="524" height="96" viewBox="0 0 524 96" role="img" aria-labelledby="title desc">
+<title id="title">NovaCloudEdu</title>
+<desc id="desc">NovaCloudEdu</desc>
+<rect x="1" y="1" width="522" height="94" rx="14" fill="#060A09" stroke="#243A30" stroke-width="2"/><g transform="translate(24 24) scale(1.8333333333333333)" fill="none" stroke="#79C9EE" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="M6 18a5 5 0 0 1-1-10 7 7 0 0 1 13-1 5.5 5.5 0 0 1 0 11zM9 12l3-3 3 3M12 9v7"/></g><text x="92" y="59" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="32" font-weight="650" fill="#E9F3EE">NovaCloudEdu</text><path d="M476 56l16-16m-15 0h15v15" fill="none" stroke="#79C9EE" stroke-width="3"/>
+</svg>

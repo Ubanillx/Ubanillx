@@ -2,13 +2,6 @@
   <title id="title">Ubanillx — AI full-stack engineer</title>
   <desc id="desc">Dark title card. The name Ubanillx, AI full-stack engineer in Guangzhou, China, working on AI for enterprise office work, sits beside the line “The layer between a model demo and a product people use.” A system map runs from brief to model, agent, and product, ending in three repositories: smartclass-backend, NovaCloudEdu, and DocMaster.</desc>
 
-  <defs>
-    <linearGradient id="trail-fade" x1="1" y1="0" x2="0" y2="0">
-      <stop offset="0" stop-color="#62E6A7" stop-opacity="0.8"/>
-      <stop offset="0.55" stop-color="#62E6A7" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#62E6A7" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
 
   <g id="background">
     <rect width="1200" height="520" rx="28" fill="#060A09"/>
@@ -102,10 +95,16 @@
     <text x="1112" y="424" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="16" letter-spacing="1.2" fill="#7A9086">JAVA</text>
   </g>
 
-  <g id="packet-1" transform="translate(1074 200)">
-    <rect x="-72" y="-1" width="72" height="2" rx="1" fill="url(#trail-fade)"/>
-    <circle cx="0" cy="0" r="11" fill="#62E6A7" opacity="0.1"/>
-    <circle cx="0" cy="0" r="6" fill="#62E6A7"/>
-    <circle cx="0" cy="0" r="1.8" fill="#E9F3EE"/>
-  </g>
+<defs><linearGradient id="trail-fade"><stop stop-color="#62E6A7" stop-opacity="0"/><stop offset="1" stop-color="#62E6A7" stop-opacity="0.8"/></linearGradient></defs>
+<g id="packet" transform="translate(1074 200)">
+  <rect x="-60" y="-2" width="60" height="4" rx="2" fill="url(#trail-fade)"/>
+  <circle r="12" fill="#62E6A7" opacity="0.15"/>
+  <circle r="5" fill="#62E6A7"/>
+  <circle r="2" fill="#E9F3EE"/>
+</g>
+<g id="arrival" transform="translate(1074 200)">
+  <circle r="17" fill="#FFB86B" opacity="0.12"/>
+  <circle r="11" fill="#142219" stroke="#FFB86B" stroke-width="1.5"/>
+  <path d="M-5 0l3 3 7-7" fill="none" stroke="#FFB86B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
 </svg>
